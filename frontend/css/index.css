@@ -11,6 +11,27 @@ h1 {
     border: 2px;
     border-color: black;
     border-style: solid;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
+}
+.navbar {
+    border : 2px;
+    border-style : solid;
+    border-color : black;
+    padding : 10px;
+    background-color : skyblue;
+    text-align : center;
+}
+.navbar a{
+    color : darkblue;
+    padding : 10px;
+    text-decoration : none; /*to remove underline*/
+
+}
+.navbar a:hover {
+    background-color : lightpink;
+    color : rgb(185, 44, 68);
+}
+body {
+    margin : 0px;
 }
