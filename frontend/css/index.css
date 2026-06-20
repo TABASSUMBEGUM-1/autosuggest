@@ -53,3 +53,20 @@ body {
 body {
     background-color : rgb(181, 233, 241);
 }
+.main{
+    text-align : center;
+}
+#gear{
+    position : fixed;
+    top : 40px;
+    bottom : auto;
+}
+#bullet{
+    position : fixed;
+    top : 40px;
+    bottom : auto;
+    left : 0px;
+    right: auto;
+    text-align : right;
+}
+  
