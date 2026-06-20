@@ -25,4 +25,15 @@ hi
 1. added button named toggle using <button> tag and created an id for it and used onclick function.
 2. in random users page we connected it to randomuser api pasted the link and then converted the reponses into json.
 3. used in arr in toggle page of size to where we switch from idx 0 to 1 and vice versa on clicking the toggle button.
-4. linked the js pages using script tag .
+4. linked the js pages using script tag.
+
+***api link***
+https://randomuser.me/api/
+
+***render live project link***
+https://autosuggest-khdw.onrender.com
+
+***github autosuggest project link***
+https://github.com/TABASSUMBEGUM-1/autosuggest.git
+
+
