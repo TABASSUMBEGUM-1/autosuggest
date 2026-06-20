@@ -19,11 +19,11 @@ h1 {
     border-style : solid;
     border-color : black;
     padding : 10px;
-    background-color : skyblue;
+    background-color : rgb(2, 8, 44);
     text-align : center;
 }
 .navbar a{
-    color : darkblue;
+    color : rgb(236, 236, 241);
     padding : 10px;
     text-decoration : none; /*to remove underline*/
 
@@ -49,4 +49,7 @@ body {
 }
 .card button{
     margin-bottom : 40px;
+}
+body {
+    background-color : rgb(181, 233, 241);
 }
